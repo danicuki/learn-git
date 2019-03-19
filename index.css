@@ -24,6 +24,11 @@ html {
     color: white;
 }
 
+.pink {
+    color: pink;
+    background-color: blue;
+}
+
 .coisa-legal {
     font-size: 15px;
 }
