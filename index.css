@@ -19,6 +19,11 @@ html {
     background-color: blue;
 }
 
+.green {
+    background-color: green;
+    color: white;
+}
+
 .coisa-legal {
     font-size: 15px;
 }
