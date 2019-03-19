@@ -3,12 +3,12 @@ html {
 }
 
 .title {
-    color: blue;
+    color: yellow;
 }
 
 .square {
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
 }
 
 .yellow {
