@@ -1,3 +1,11 @@
+html {
+    font-family: "Open Sans"
+}
+
 .title {
-    color: red;
+    color: blue;
+}
+
+.coisa-legal {
+    font-size: 15px;
 }
