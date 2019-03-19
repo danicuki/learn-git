@@ -1,5 +1,9 @@
+html {
+    font-family: "Open Sans"
+}
+
 .title {
-    color: red;
+    color: blue;
 }
 
 .square {
@@ -15,3 +19,6 @@
     background-color: blue;
 }
 
+.coisa-legal {
+    font-size: 15px;
+}
